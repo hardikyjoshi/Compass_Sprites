@@ -1,0 +1,30 @@
+/* line 80, ../images/*.png */
+.images-sprite, .images-alert-close, .images-alert-danger, .images-alert-info, .images-alert-success, .images-alert-warning {
+  background-image: url('/images/../images-sc3c3fdd669.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, ../../../../../../Ruby200/lib/ruby/gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.images-alert-close {
+  background-position: 0 0;
+}
+
+/* line 84, ../../../../../../Ruby200/lib/ruby/gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.images-alert-danger {
+  background-position: 0 -18px;
+}
+
+/* line 84, ../../../../../../Ruby200/lib/ruby/gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.images-alert-info {
+  background-position: 0 -45px;
+}
+
+/* line 84, ../../../../../../Ruby200/lib/ruby/gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.images-alert-success {
+  background-position: 0 -72px;
+}
+
+/* line 84, ../../../../../../Ruby200/lib/ruby/gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.images-alert-warning {
+  background-position: 0 -99px;
+}
